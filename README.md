@@ -1,5 +1,5 @@
 # PenayFauraPaginaWeb2023
-
+<img src="https://github.com/giandeveloper2109/PenayFauraWebPage2023/blob/main/src/assets/logoPyF.png?raw=true" alt="Descripción de la imagen" width="300" height="300" align="middle">
 ## Project setup
 
 ```
@@ -38,4 +38,4 @@ soporte8@remaincomputers.com
 Cel: +51 997230674
 Lima-PERÚ
 ```
-<img src="https://github.com/giandeveloper2109/PenayFauraWebPage2023/blob/main/src/assets/logoPyF.png?raw=true" alt="Descripción de la imagen" width="300" height="300" align="middle">
+
