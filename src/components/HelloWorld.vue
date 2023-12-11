@@ -48,13 +48,16 @@
 }
 .carousel-text h2 {
   margin: 0;
-  font-size: 24px;
+  font-size: 30px;
   color: rgb(249, 50, 50);
 }
 
 .carousel-text p {
-  margin: 20px 0 0;
-  font-size: 20px;
+  margin: 10px 0 0;
+  font-size: 18px;
+  max-width: 500px; 
+  margin-left: auto;
+  margin-right: auto;
   color: rgb(0, 0, 0);
 }
 </style>
