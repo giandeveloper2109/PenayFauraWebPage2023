@@ -62,7 +62,7 @@
             
             <v-row>
               <v-col>
-                <v-text-field
+                <v-text-field class="prepend-icon"
                   clearable
                   label="Nombre"
                   v-model="formData.name"
@@ -70,7 +70,7 @@
                   variant="solo-filled"
                 ></v-text-field>
 
-                <v-text-field
+                <v-text-field class="prepend-icon"
                   clearable
                   label="Telefono"
                   v-model="formData.telefono"
@@ -82,7 +82,7 @@
             
             
               <v-col>
-                <v-text-field
+                <v-text-field class="prepend-icon"
                   clearable
                   label="Correo"
                   v-model="formData.correo"
@@ -90,7 +90,7 @@
                   variant="solo-filled"
                 ></v-text-field>
 
-                <v-text-field
+                <v-text-field class="prepend-icon"
                   clearable
                   label="Asunto"
                   v-model="formData.asunto"
@@ -100,7 +100,7 @@
                 </v-col>
             </v-row>
             
-                <v-textarea
+                <v-textarea class="prepend-icon"
                   clearable
                   label="Label"
                   prepend-icon="mdi-message"
@@ -160,5 +160,8 @@ const submitForm = () => {
     text-align: center;
     font-size: 20px;
     
+  }
+  .prepend-icon{
+    color: rgb(249, 50, 50);
   }
 </style>
